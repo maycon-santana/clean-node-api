@@ -1,6 +1,4 @@
-# clean-node-api
-
-##Curso Gratuito de NodeJS
-TDD
-Clean Architecture
-Design Patterns
+# Iniciando os estudandos com NodeJS
+- TDD
+- Clean Architecture
+- Design Patterns
